@@ -3,9 +3,17 @@ Just a small script for downloading music from spotify or soundcloud with python
 
 ## Requirements
 
-- [Python](https://www.python.org/downloads/)
-- [Pip](https://pip.pypa.io/en/stable/installation/)
-- [FFmpeg](https://ffmpeg.org/download.html)
+### [Python](https://www.python.org/downloads/)
+
+Just download the latest stable Python and install it.
+
+### [Pip](https://pip.pypa.io/en/stable/installation/)
+
+Just use the command 'python -m ensurepip --upgrade' to install pip
+
+### [FFmpeg](https://ffmpeg.org/download.html)
+
+Download the latest static build for your OS and add the bin folder to your PATH environment variable.
 
 ## Installation
 
